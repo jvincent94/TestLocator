@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Locator</string>
+    <string name="no_internet">No Internet connection detected</string>
+    <string name="dialog_message">Finding nearby hospitals. Please wait.</string>
+</resources>
